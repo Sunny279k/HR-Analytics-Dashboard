@@ -82,3 +82,4 @@ Draw meaningful insights that can help organizations improve retention and emplo
 🙌 Acknowledgement
 
 A special thanks to YouTuber Rishabh Mishra 🎥 for his incredible tutorials and guidance throughout my Power BI learning journey. Your content made complex concepts easy to grasp and apply! 🙏
+https://github.com/Sunny279k/HR-Analytics-Dashboard/blob/main/Screenshot%202025-11-09%20193058.png
